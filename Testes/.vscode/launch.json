@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ControleTest",
+            "request": "launch",
+            "mainClass": "edu.ifal.votacao.ControleTest",
+            "projectName": "votacao"
+        }
+    ]
+}
